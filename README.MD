@@ -38,6 +38,6 @@ This plugin was primarily created by [Jai (Kirbyrawr)](https://github.com/Kirbyr
 
 ## License
 
-This project is licensed under The "Jai Creative License" (JCL), a custom license. Please refer to [LICENSE.md](LICENSE.md) for more details.
+This project is licensed under The "Jai Creative License" (JCL), a custom license. Please refer to [LICENSE.MD](LICENSE.MD) for more details.
 
 Enjoy using the RGB565Preview plugin for Krita! If you find it helpful, please consider supporting the development by contributing or sharing it with others.
