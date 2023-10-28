@@ -11,7 +11,7 @@ With this license, you are free to:
 All we ask is:
 
 - Keep the original copyright notice intact.
-- Give credit to the original creator, [Your Full Name], when you share or publish this software or any derivative works.
+- Give credit to the original creator, when you share or publish this software or any derivative works.
 - Use this software in good faith and avoid using it for malicious purposes.
 
 No warranties are given. The license provides the software "as is" without any warranties, express or implied.
