@@ -35,9 +35,3 @@ If you encounter any issues or have suggestions for improvements, please [create
 ## Credits
 
 This plugin was primarily created by [Jai (Kirbyrawr)](https://github.com/Kirbyrawr) with the assistance of ChatGPT AI. I would like to extend my thanks to the [KritaCustomPreview](https://github.com/Rolodophone/KritaCustomPreview) repository for providing the foundation for this plugin.
-
-## License
-
-This project is licensed under The "Jai Creative License" (JCL), a custom license. Please refer to [LICENSE.MD](LICENSE.MD) for more details.
-
-Enjoy using the RGB565Preview plugin for Krita! If you find it helpful, please consider supporting the development by contributing or sharing it with others.
