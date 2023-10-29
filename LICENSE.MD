@@ -1,17 +1,10 @@
-The "Jai Creative License" (JCL)
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
-Copyright [2023] [Jai B. (Kirbyrawr)]
+Copyright (C) 2023 Jai
 
-With this license, you are free to:
+This program is a plugin for Krita, which utilizes and links to code from Krita itself. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-- Use, modify, and distribute this software.
-- Create derivative works from this software.
-- Use this software for any purpose, commercially or otherwise.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-All we ask is:
-
-- Keep the original copyright notice intact.
-- Give credit to the original creator, when you share or publish this software or any derivative works.
-- Use this software in good faith and avoid using it for malicious purposes.
-
-No warranties are given. The license provides the software "as is" without any warranties, express or implied.
+You should have received a copy of the GNU General Public License along with Krita or this program. If not, see <https://www.gnu.org/licenses/>.
